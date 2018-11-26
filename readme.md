@@ -5,7 +5,7 @@ This is a simple issue tracker application.
  On top an input form is visible. By using the input fields for Description, Severity and Assigned To the user is able to enter new issues. The issues are stored in the Browser’s Local Storage. The list of existing issues is printed out in the bottom area.
 
 
-Using live-server:
+#Using live-server:
 As a development web server we’re using live-server in this tutorial. live-server is a small web server with reload capabilities. It’s available as an npm package, so installation can be done with:
 
 $ npm install -g live-server
